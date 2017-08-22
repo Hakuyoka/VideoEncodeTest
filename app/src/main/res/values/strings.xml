@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">VideoEncoder</string>
+
+    <string-array name="resolution">
+        <item>320×240</item>
+        <item>640×480</item>
+        <item>960×720</item>
+        <item>512×288</item>
+        <item>1280×720</item>
+        <item>1920×1080</item>
+    </string-array>
+    <string-array name="video_bitrate">
+        <item>100k</item>
+        <item>1000k</item>
+        <item>10000k</item>
+        <item>100000k</item>
+    </string-array>
 </resources>
